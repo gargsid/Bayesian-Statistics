@@ -1,4 +1,6 @@
 #Example 11.4.2
+#Introduction to Mathematical Statistics
+#Hogg, Mckean, Craig
 
 #alpha = 10
 # Y|X = Gamma(alpha+X,1/2)
