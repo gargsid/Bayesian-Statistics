@@ -1,3 +1,7 @@
+#Below code is the implementation of Example 11.4.1 of
+#Introduction to Mathematical Statistics by
+#Hogg, Mckean, Craig
+
 import numpy as  np
 import math
 import scipy.stats as st
